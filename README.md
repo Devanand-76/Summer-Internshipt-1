@@ -1,2 +1,2 @@
-# Summer-Internshipt-1
+# Summer-Internship-1
 Celonis Process Mining
